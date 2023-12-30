@@ -1,0 +1,21 @@
+url: 'https://test-stand.gb.ru/gateway/login'
+url2: 'https://test-stand.gb.ru/api/posts'
+username: '1stud'
+password: 'ef080ce410'
+
+# test urls
+login_url: 'https://test-stand.gb.ru/gateway/login'
+posts_url: 'https://test-stand.gb.ru/api/posts'
+
+# logging path
+log_file: D:/deep_python/py_for_web/sem_1_2/logs_file.log
+
+# test data
+## test1
+postitve_answer: '12345678911234567890123456789012345678901'
+
+## test2
+title: test_title
+description: test_description
+content: test_content
+description_answer: test_description
